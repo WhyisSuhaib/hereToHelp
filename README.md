@@ -1,16 +1,3 @@
-# here_to_help
-
-A flutter UI project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Basic UI design of an App named "Here To Help",
+It is a one-stop solution for your services. Order any service, anytime.
+![Screenshot_20240116-205518_here_to_help](https://github.com/WhyisSuhaib/hereToHelp/assets/42011643/36c7673a-ed74-4d05-932f-9c698cb7f0d7)
